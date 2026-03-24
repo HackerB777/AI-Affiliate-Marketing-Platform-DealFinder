@@ -271,3 +271,8 @@ Admin endpoints require `X-Admin-Key` header.
 ---
 
 *Built with ❤️ using Node.js, Next.js, MongoDB, and OpenAI GPT-4*
+## Screenshorts
+
+
+<p align="center">
+   <img src="./images/img1.png"   width="850px"/>   <img src="./images/img2.png"  width="850px"/> <img src="./images/img3.png"    width="850px" />
